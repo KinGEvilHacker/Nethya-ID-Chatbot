@@ -12,7 +12,7 @@ The easiest way to deploy this Bot
 
 ### Deploy on [Heroku](https://heroku.com)
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TheLogicalGuy/Nethya-id-chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/KinGEvilHacker/Nethya-id-chatbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### Deploy on [Railway](https://railway.app)
 
@@ -26,7 +26,7 @@ The easiest way to deploy this Bot
 
 # REACH ME
 
-<p align="center"><a href="https://telegram.dog/The_logical_Guy"> <img src="https://img.shields.io/badge/Reach--@The__Logical__Guy-blue?style=for-the-badge&logo=telegram" width="" height="40"/></a></p>
+<p align="center"><a href="https://telegram.dog/i_am_dead_smile"> <img src="https://img.shields.io/badge/Reach--@i_am_dead_smile-blue?style=for-the-badge&logo=telegram" width="" height="40"/></a></p>
 
 ##### Credit:- Nethya-ID-Chatbot is basically created from kuki with some extra features So credit goes to its respective owner
  
